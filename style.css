@@ -1,0 +1,9 @@
+#myCanvas{
+    border-style: ridge;
+    border-color: rgb(117, 24, 204);
+    background-color: aliceblue;
+    border-width: 10px;
+}
+#myButton{
+    background-color: yellow;
+}
